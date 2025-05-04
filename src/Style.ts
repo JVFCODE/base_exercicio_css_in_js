@@ -2,7 +2,7 @@ import styled, { createGlobalStyle } from 'styled-components'
 
 const GlobalStyle = createGlobalStyle`
   :root {
-    --primary: #4B0082;
+    --primary: #a7727d;
   * {
     
     }
